@@ -1,2 +1,2 @@
 # react-skywalking-ui
-SkyWalinkg UI for React
+SkyWalking UI for React
